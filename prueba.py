@@ -136,6 +136,7 @@ while True:
                 break         
     preguntar_si_acaba_el_juego = input('Desea terminar el juego? S/N')
     if preguntar_si_acaba_el_juego == 's':
+        print('hasta luego!')
         break
 
         
